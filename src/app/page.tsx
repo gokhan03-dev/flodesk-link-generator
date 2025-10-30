@@ -23,7 +23,7 @@ export default function Home() {
   }, [])
 
   const generateLink = () => {
-    const baseUrl = 'https://hook.eu2.make.com/dttz5sludz75up6we5wlxphl8losnbgg'
+    const baseUrl = 'https://n8n.srv1090323.hstgr.cloud/webhook/76f703ce-dce8-4cf2-9e63-17de9770a826'
     
     // Encode the redirect URL
     const encodedRedirectUrl = encodeURIComponent(redirectUrl)
